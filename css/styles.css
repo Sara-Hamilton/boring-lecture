@@ -1,13 +1,9 @@
-h2.intro {
+.intro {
   text-align: center;
   font-style: italic;
-}
-
-p.intro {
-  text-align: left;
   color: grey;
 }
 
-img.intro {
+img {
   border: 3px solid blue;
 }
